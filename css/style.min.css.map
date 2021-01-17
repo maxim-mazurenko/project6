@@ -1,12 +1,11 @@
 {
     "version": 3,
-    "mappings": "AGAA,AAAA,GAAG,AAAC,CACH,KAAK,CAAE,GAAG,CAAG",
+    "mappings": "AGAA,AAAA,EAAE,AAAC,CACC,KAAK,CAAE,GACX,CAAC",
     "sources": [
-        "../sass/style.sass",
-        "../sass/_variebles.sass",
-        "../sass/_mixin.sass",
-        "../sass/_general.sass",
-        "../sass/_media.sass"
+        "../sass/style.scss",
+        "../sass/_mixin.scss",
+        "../sass/_variebles.scss",
+        "../sass/_general.scss"
     ],
     "names": [],
     "file": "style.min.css"
